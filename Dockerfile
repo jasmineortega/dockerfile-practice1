@@ -1,2 +1,2 @@
-FROM jupyter/scipy-notebook
+FROM jupyter/scipy-notebook 
 RUN conda install docopt -y 
